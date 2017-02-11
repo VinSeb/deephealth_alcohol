@@ -7,6 +7,8 @@ https://drive.google.com/drive/folders/0BytZsWzpd8xeZHJfSjBmYTRIaDQ
 
 Python Installation: http://www.pyzo.org/start.html
 
+Python SciKit: http://scikit-learn.org/stable/install.html
+
 R Installation: https://www.rstudio.com/products/rstudio/download/
 
 # Attributes for housing data.csv
