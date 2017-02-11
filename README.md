@@ -4,6 +4,10 @@ Information
 The Solutions can be found here
 https://drive.google.com/drive/folders/0BytZsWzpd8xeZHJfSjBmYTRIaDQ
 
+# Installation
+Python Installation: http://www.pyzo.org/
+R Installation: https://www.rstudio.com/products/rstudio/download/
+
 # Attributes for both student-mat.csv (Math course) and student-por.csv (Portuguese language course) datasets:
 1 school - student's school (binary: "GP" - Gabriel Pereira or "MS" - Mousinho da Silveira)
 2 sex - student's sex (binary: "F" - female or "M" - male)
