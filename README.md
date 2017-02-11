@@ -1,8 +1,6 @@
 # Deep Health Alcohol
 Information
 
-The Solutions can be found here
-
 https://drive.google.com/drive/folders/0BytZsWzpd8xeZHJfSjBmYTRIaDQ
 
 # Installation
