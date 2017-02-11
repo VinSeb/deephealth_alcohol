@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Data to hide
+sample_solution.csv
+solution.csv
+all_data.csv
